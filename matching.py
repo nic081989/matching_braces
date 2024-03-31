@@ -1,6 +1,3 @@
-# MODIFY ME TO IMPLEMENT YOUR SOLUTION
-# TO PROBLEM 2: BRACE MATCHER
-#
 # NAME:         Nicholas Ngobi
 
 # ASSIGNMENT:  stacks and Queues
